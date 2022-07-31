@@ -1,4 +1,3 @@
-import torch
 import torchvision
 from torch import nn
 from torch.nn import Conv2d, MaxPool2d, Flatten, Linear, Sequential, CrossEntropyLoss
